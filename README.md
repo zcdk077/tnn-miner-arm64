@@ -1,8 +1,9 @@
-# tnn-termux
+# tnn-miner-arm64
 Precompile tnn-miner for android
 
 ```
-git clone https://github.com/zcdk077/tnnminer-arm64
-cd tnnminer-arm64
-chmod +x start.sh tnn-miner-arm64
+mkdir tnn-miner && cd tnn-miner
+wget https://raw.githubusercontent.com/zcdk077/tnnminer-arm64/master/start.sh
+wget https://raw.githubusercontent.com/zcdk077/tnnminer-arm64/master/tnn-miner
+chmod +x start.sh tnn-miner
 ```

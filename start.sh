@@ -1,1 +1,1 @@
-./tnn-miner --spectre --stratum --daemon-address spr.mining.st-ips.de --port 4364 --wallet spectre:qp6an6pkpfjxrummlv68grc6yyl3pcg0t7dawmar3l9q7m28ggjczvvz6zp57 --worker-name Donations --threads 8 --dev-fee 1 --no-lock
+./tnn-miner --spectre --daemon-address spectre.cedric-crispin.com --port 4364 --wallet spectre:qp6an6pkpfjxrummlv68grc6yyl3pcg0t7dawmar3l9q7m28ggjczvvz6zp57 --worker-name Donations --threads 8 --dev-fee 1 --no-lock

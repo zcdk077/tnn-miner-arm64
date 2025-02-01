@@ -1,5 +1,5 @@
 # tnn-miner-arm64
-Precompile tnn-miner for android
+Pre-compiled tnn-miner
 
 ```
 mkdir tnn-miner && cd tnn-miner

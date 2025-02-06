@@ -7,5 +7,5 @@
 #Example Mining RandomX
 #./tnn-miner-cpu --randomx --stratum --daemon-address gulf.moneroocean.stream --port 10001 --wallet 43FZfSSGfddbUsyEVbiTmbY4aohwUGuJojF3ipdCyugdadtsoUhe6npFsAWKqwbbHi6FsyeJG4DghPdwxjXLsQJC9jpBz9t --worker-name Donations --threads 8 --no-lock
 
-#Exanple Mining Velis
-#./tnn-miner-cpu --vel --stratum --daemon--address cn.vipor.net --port 5077 --wallet xel:22qf689wwz00tq0r5lpmd779383l6qauae3xwmczfzgqn9n58sjqqantg0p --worker-name Donations --threads 8 --no-lock
+#Exanple Mining Xelis
+#./tnn-miner-cpu -xelis --stratum --daemon--address cn.vipor.net --port 5077 --wallet xel:22qf689wwz00tq0r5lpmd779383l6qauae3xwmczfzgqn9n58sjqqantg0p --worker-name Donations --threads 8 --no-lock

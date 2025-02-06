@@ -15,8 +15,8 @@ wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Install
 # Clone & Build TNN-Miner
 ```
 wget https://raw.githubusercontent.com/zcdk077/tnn-miner/master/build.sh
-./build.sh
 chmod +x build.sh
+./build.sh
 rm -r build.sh
 cd tnn-miner
 ```

@@ -18,5 +18,5 @@ wget https://raw.githubusercontent.com/zcdk077/tnn-miner/master/build.sh
 chmod +x build.sh
 ./build.sh
 rm -r build.sh
-cd tnn-miner
+cd ~/tnn-miner
 ```

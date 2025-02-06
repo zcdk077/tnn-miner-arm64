@@ -40,6 +40,7 @@ wget https://github.com/zcdk077/tnn-miner/releases/download/0.4.4-r2/Tnn-miner-a
 tar xzvf Tnn-miner-arm64-0.4.4-r2.tar.gz
 rm -r Tnn-miner-arm64-0.4.4-r2.tar.gz
 cd tnn-miner
+chmod +x tnn-miner-cpu
 echo "${LYLO}Proses clone konfigurasi${N}"
 sleep 3
 wget https://raw.githubusercontent.com/zcdk077/tnn-miner/master/start.sh

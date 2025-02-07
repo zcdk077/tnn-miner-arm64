@@ -4,7 +4,7 @@ Pre-compiled tnn-miner
 # Update & Upgrade Dependencies
 ```
 pkg update && pkg upgrade -y
-pkg install wget git nano
+pkg install wget git curl proot tar nano -y
 ```
 
 # Install Ubuntu for android

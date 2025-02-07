@@ -1,7 +1,10 @@
-# tnn-miner-arm64-linux
-Pre-compiled tnn-miner
+## TNN-Miner
+Pre-compiled tnn-miner for Linux and Windows
 
-# Update & Upgrade Dependencies
+Download for Windows <a href=https://github.com/zcdk077/tnn-miner/releases/tag/0.4.4-r2>Releases</a>
+
+## Steps to install on Ubuntu using Termux Android
+# Update & Upgrade & Install Dependencies Termux Android
 ```
 pkg update && pkg upgrade -y
 pkg install wget git curl proot tar nano -y

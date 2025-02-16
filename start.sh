@@ -11,7 +11,10 @@
 #18192: CPU/GPU farm
 #20128: SSL/TLS
 #10001: Very old CPU (1000 diff)
-#./tnn-miner-cpu --randomx --stratum --daemon-address gulf.moneroocean.stream --port 10001 --wallet 43FZfSSGfddbUsyEVbiTmbY4aohwUGuJojF3ipdCyugdadtsoUhe6npFsAWKqwbbHi6FsyeJG4DghPdwxjXLsQJC9jpBz9t --worker-name Donations --threads 8 --no-lock
+#Monero
+#./tnn-miner-cpu --randomx --stratum --daemon-address asia.hashvault.pro --port 443 --wallet 43FZfSSGfddbUsyEVbiTmbY4aohwUGuJojF3ipdCyugdadtsoUhe6npFsAWKqwbbHi6FsyeJG4DghPdwxjXLsQJC9jpBz9t --worker-name Donations --threads 8 --no-lock
+#Salvium
+#./tnn-miner-cpu --randomx --stratum --daemon-address asia.hashvault.pro --port 443 --wallet SaLvdTUHjARKkZvYGrPExpSUxYPSbEf4MAkpvdxLKgWDB4gmHUhb4HkTkwFH7kj2eULfpkwQYnzd7CqjEHsnYiM2NKDrS91WpZX --worker-name Donations --threads 8 --no-lock
 
 #Exanple Mining Xelis || GPU Only
 #./tnn-miner-cpu --xelis --stratum --daemon-address cn.vipor.net --port 5077 --wallet xel:22qf689wwz00tq0r5lpmd779383l6qauae3xwmczfzgqn9n58sjqqantg0p --worker-name Donations --threads 8 --no-lock
